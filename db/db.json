@@ -4,21 +4,6 @@
       "id": 1,
       "name": "rov",
       "complete": 1
-    },
-    {
-      "name": "asdsadsad",
-      "complete": false,
-      "id": 2
-    },
-    {
-      "name": "kuy",
-      "complete": false,
-      "id": 3
-    },
-    {
-      "name": "kuymind",
-      "complete": false,
-      "id": 4
     }
   ]
 }
